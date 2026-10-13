@@ -1,0 +1,8 @@
+https://github.com/alexoviedo999/last-mile-delivery-agents/blob/main/Project_3_Full_code_Notebook.ipynb
+https://github.com/ladislav-lettovsky/ai-delivery-exception-system
+https://github.com/CryptoGuy1/ai-delivery-exception-handling
+https://github.com/nrsundar/pgaiaba-proj3-multiagent-delivery-exceptions
+https://github.com/alexoviedo999/last-mile-delivery-agents
+https://github.com/farp80/last-mile-delivery-exception-agent
+https://github.com/ntitsolutins01/AI-powered-Last-Mile-Delivery-Exception-Handling-Automation
+
